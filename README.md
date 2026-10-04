@@ -1,8 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-> A clean, modern, and responsive personal portfolio website built from scratch using **HTML5 and CSS3**.
-
-🔗 **Live Website:** [View My Portfolio](YOUR_LIVE_WEBSITE_LINK)
+> A clean, modern, and responsive personal portfolio website built from scratch using **HTML5 and CSS3**
 
 ---
 
