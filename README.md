@@ -37,35 +37,9 @@ The Contact page allows visitors to find my contact information and connect with
 
 ---
 
-## 🚀 Features
 
-* 🎨 Clean and simple user interface
-* 📱 Responsive layout
-* 🔗 Easy navigation between pages
-* 🏠 Dedicated Home page
-* 📩 Dedicated Contact page
-* 💻 Built completely from scratch
-* ⚡ Lightweight and fast-loading
-* 📂 Simple and organized project structure
 
----
-
-## 📁 Project Structure
-
-```text
-Personal-Portfolio/
-│
-├── index.html       # Home page
-├── contact.html     # Contact page
-├── style.css        # Website styling
-└── README.md        # Project documentation
-```
-
----
-
-## 🎯 What I Learned
-
-Through this project, I gained practical experience in:
+---Through this project, I gained practical experience in:
 
 * Structuring web pages using **HTML5**
 * Styling websites using **CSS3**
@@ -74,29 +48,6 @@ Through this project, I gained practical experience in:
 * Designing a simple and user-friendly interface
 * Organizing files for a web project
 * Using **Git and GitHub** to manage and showcase my project
-
----
-
-## 🔮 Future Improvements
-
-I plan to continuously improve this portfolio by adding:
-
-* 👤 About Me section
-* 💡 Skills section
-* 🚀 Projects showcase
-* 📱 Improved mobile responsiveness
-* ✨ CSS animations and transitions
-* ⚡ JavaScript-based interactions
-* 📧 Functional contact form
-* 🌐 More professional UI/UX design
-
----
-
-## 📸 Preview
-
-*Add screenshots of your Home and Contact pages here.*
-
----
 
 ## 👨‍💻 About Me
 
@@ -112,12 +63,4 @@ I plan to continuously improve this portfolio by adding:
 
 🟢 **Completed — Currently improving**
 
-This is one of my beginner projects while learning web development. I plan to keep updating it as I learn new technologies and improve my development skills.
-
----
-
-## 🤝 Feedback
-
-Feedback and suggestions are always welcome. This project is part of my learning journey, and every improvement helps me become a better developer.
-
-⭐ **If you like this project, consider giving the repository a star!**
+This is one of my beginner projects while learning web development. I plan to keep updating it as I learn new technologies and improve my development skills
